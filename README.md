@@ -13,5 +13,3 @@ Bu repo, Marmara Üniversitesi “Test Otomasyon Araçları” dersi kapsamında
 2. `python manual_page_login_test.py`  
 3. Açılan Chrome’da **manuel** kullanıcı adı/şifre gir, “Login”e tıkla, sonucu sağ üstte gör.
 
-## Lisans
-(Opsiyonel: lisans bilgisi ekleyebilirsin.)
